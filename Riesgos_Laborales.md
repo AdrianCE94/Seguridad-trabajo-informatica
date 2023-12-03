@@ -43,7 +43,7 @@
 
 ---
 
-![Foto_RiesgoLab](https://www.beedigital.es/wp-content/uploads/2020/09/ec39d087ff0b5f111091ee1ac795947d378644252-1.jpg)
+![Foto_RiesgoLab](img/2.png)
 
 
         REFERENCIAS
