@@ -43,7 +43,7 @@
 
 ---
 
-![Foto_RiesgoLab](img/2.png)
+![Foto_RiesgoLab](2.png)
 
 
         REFERENCIAS
