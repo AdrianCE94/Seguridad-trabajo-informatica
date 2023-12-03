@@ -48,7 +48,7 @@
 
         REFERENCIAS
         
-        Enlace1: https://prevencionugtandalucia.es riesgos-laborales-en-el-sector-de-la-informatica/
+        [1](https://prevencionugtandalucia.es riesgos-laborales-en-el-sector-de-la-informatica/)
 
-        Enlace2:https://www.ticarte.com/sites/su/users/7/arch/prevencion-riegos-laborales-informatica-comunicaciones.pdf
+        [2](:https://www.ticarte.com/sites/su/users/7/arch/prevencion-riegos-laborales-informatica-comunicaciones.pdf)
 
