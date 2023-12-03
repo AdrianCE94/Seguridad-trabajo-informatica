@@ -49,6 +49,6 @@ Concientizar sobre las mejores prácticas para prevenir lesiones musculoesquelé
 
 ### Referencias ###
 
-	:arrow_right:[1](https://www.unir.net/ingenieria/revista/riesgos-laborales-informatica/)
+	[1](https://www.unir.net/ingenieria/revista/riesgos-laborales-informatica/)
 	
-	:arrow_right: [2](https://prevencionugtandalucia.es/riesgos-laborales-en-el-sector-de-la-informatica/) 
+	[2](https://prevencionugtandalucia.es/riesgos-laborales-en-el-sector-de-la-informatica/) 
